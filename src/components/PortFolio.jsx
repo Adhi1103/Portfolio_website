@@ -28,7 +28,7 @@ export default function Projects() {
             <span className="text-black bg-yellow-400 px-2 py-1 rounded text-sm">JS</span>
           </div>
           <a 
-            href="http://localhost:5173/" 
+            href="https://portfolio-website-seven-omega-98.vercel.app/" 
             target="_blank" 
             className="mt-4 inline-block px-4 py-2 bg-yellow-500 text-black rounded-lg hover:bg-yellow-600 transition-all"
           >
@@ -52,7 +52,7 @@ export default function Projects() {
             <span className="text-black bg-yellow-400 px-2 py-1 rounded text-sm">JS</span>
           </div>
           <a 
-            href="https://your-live-link.com" 
+            href="https://chat-application-k64c.vercel.app/" 
             target="_blank" 
             className="mt-4 inline-block px-4 py-2 bg-yellow-500 text-black rounded-lg hover:bg-yellow-600 transition-all"
           >
