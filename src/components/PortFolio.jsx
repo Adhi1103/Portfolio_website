@@ -60,6 +60,24 @@ export default function Projects() {
           </a>
         </div>
 
+        {/* Project 3 */}
+        <div className="w-auto max-w-md p-6 bg-gray-800 rounded-lg shadow-lg dark:bg-gray-700">
+          <img 
+            src="project.png" 
+            alt="Travel and Tour WebApp" 
+            className="w-full h-40 object-cover rounded-lg mb-4"
+          />
+          <h2 className="text-xl font-semibold">Tour and travel </h2>
+          <p className="mt-2 text-gray-300 dark:text-gray-400">
+           The Tour Booking Web App is a full-featured travel and tourism platform that allows users to explore, search, and book their favorite travel destinations..
+          </p>
+          <div className="flex items-center gap-2 mt-4">
+            <span className="text-yellow-500">⚛️</span>
+            <span className="text-black bg-yellow-400 px-2 py-1 rounded text-sm">JS</span>
+          </div>
+          
+        </div>
+
       </div>
     </div> <hr/></>
   );
