@@ -78,6 +78,31 @@ export default function Projects() {
           
         </div>
 
+        <div className="w-auto max-w-md p-6 bg-gray-800 rounded-lg shadow-lg dark:bg-gray-700">
+          <img 
+            src="1.png.png" 
+            alt="MediConnect" 
+            className="w-full h-40 object-cover rounded-lg mb-4"
+          />
+          <h2 className="text-xl font-semibold">MediConnect</h2>
+          <p className="mt-2 text-gray-300 dark:text-gray-400">
+            MediConnect successfully delivers a unified, secure platform that streamlines healthcare management through a verified doctor network and AI-powered symptom triage. It effectively reduces administrative burdens, enhances patient-doctor connectivity, and provides a scalable foundation for the future of digital healthcare services.
+
+
+          </p>
+          <div className="flex items-center gap-2 mt-4">
+            <span className="text-yellow-500">⚛️</span>
+            <span className="text-black bg-yellow-400 px-2 py-1 rounded text-sm">JS</span>
+          </div>
+          <a 
+            href="https://mediconnect-uhxz-8cwlclt2t-adhikansh1103s-projects.vercel.app/" 
+            target="_blank" 
+            className="mt-4 inline-block px-4 py-2 bg-yellow-500 text-black rounded-lg hover:bg-yellow-600 transition-all"
+          >
+            Live 🔗
+          </a>
+        </div>
+
       </div>
     </div> <hr/></>
   );
